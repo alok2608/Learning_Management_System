@@ -11,7 +11,7 @@ this is a lms project, that i have build while learning full stack development w
 The project follows a well-organized structure:
 
 ```
-LMS-Project/
+Learning_Management_System/
 ├── backend/
 │   ├── config/
 │   │   ├── db.config.js 
@@ -154,7 +154,7 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/gulshan07dev/lms-mern-project.git
+   git clone https://github.com/alok2608/Learning_Management_System.git
    cd LMS
    ```
 
