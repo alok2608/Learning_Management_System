@@ -67,7 +67,7 @@ LMS-Project/
 
 ## Demo Video
 
-[![Watch Demo Video](https://res.cloudinary.com/dhwbyshmo/image/upload/v1697537153/project%20images/lms-admin-dashboard.png)](https://www.linkedin.com/feed/update/urn:li:activity:7119641188646727681)
+[![Watch Demo Video](https://drive.google.com/file/d/1vXQvBX4yX2Seksm5F3EOCtInYJdLPrq8/view?usp=sharing)
 
 Click the image above to watch the demo video.
 
@@ -176,4 +176,3 @@ Follow these steps to set up the project on your local machine:
 
 ---
 
-_Made with ❤️ by [Gulshan Kumar](https://www.linkedin.com/in/gulshan-kumar-8293b9260/)_
