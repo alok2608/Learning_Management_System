@@ -67,8 +67,7 @@ LMS-Project/
 
 ## Demo Video
 
-[![Watch Demo Video](https://drive.google.com/file/d/1vXQvBX4yX2Seksm5F3EOCtInYJdLPrq8/view?usp=sharing)
-
+[![Watch Demo Video](https://res.cloudinary.com/dhwbyshmo/image/upload/v1697537153/project%20images/lms-admin-dashboard.png)](https://drive.google.com/file/d/1vXQvBX4yX2Seksm5F3EOCtInYJdLPrq8/view?usp=drive_link)
 Click the image above to watch the demo video.
 
 
